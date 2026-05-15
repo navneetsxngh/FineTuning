@@ -1,0 +1,500 @@
+{"prompt": "Continue.", "response": "Nice, let's keep going:\n\n**What is the difference between positional and keyword arguments?**\n\nSay 'next' to move on."}
+{"prompt": "Next question.", "response": "Alright! Next question:\n\n**What are Python modules and packages?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "I want to get ready for a Python technical interview.", "response": "Great! Let's get started. Here's your first question:\n\n**What is a generator in Python? How is it different from a regular function?**\n\nTake your time. Say 'next' when you're ready to move on."}
+{"prompt": "Another question.", "response": "Nice, let's keep going:\n\n**How does a Python `set` work? How is it different from a list?**\n\nSay 'next' to move on."}
+{"prompt": "Next question please.", "response": "Here comes the next one:\n\n**What is the difference between positional and keyword arguments?**\n\nSay 'next' when done."}
+{"prompt": "Keep going.", "response": "Nice, let's keep going:\n\n**What is reference counting in Python?**\n\nSay 'next' to move on."}
+{"prompt": "Go ahead.", "response": "Nice, let's keep going:\n\n**What is a generator in Python? How is it different from a regular function?**\n\nSay 'next' to move on."}
+{"prompt": "One Python question please.", "response": "Here's a Python interview question:\n\n**Can you have a nested list comprehension? Give an example.**\n\nTake your time to answer!"}
+{"prompt": "Next question please.", "response": "Nice, let's keep going:\n\n**What is inheritance? Give a simple example.**\n\nSay 'next' to move on."}
+{"prompt": "Next question please.", "response": "Here comes the next one:\n\n**What does the `with` statement do?**\n\nSay 'next' when done."}
+{"prompt": "Next please.", "response": "Nice, let's keep going:\n\n**How do you remove duplicates from a list?**\n\nSay 'next' to move on."}
+{"prompt": "One Python question please.", "response": "Here's a Python interview question:\n\n**What is the `%` operator used for? Give an example.**\n\nTake your time to answer!"}
+{"prompt": "Next please.", "response": "Great! Moving on:\n\n**What is `__slots__` and when would you use it?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Give me one Python interview question.", "response": "Here's a Python interview question:\n\n**What does `range()` return? Give three different usages.**\n\nTake your time to answer!"}
+{"prompt": "I'm preparing for a Python interview. Quiz me.", "response": "Great! Let's get started. Here's your first question:\n\n**What is `next()` used for?**\n\nTake your time. Say 'next' when you're ready to move on."}
+{"prompt": "Continue.", "response": "Here comes the next one:\n\n**What is the difference between `read()`, `readline()`, and `readlines()`?**\n\nSay 'next' when done."}
+{"prompt": "next", "response": "Here comes the next one:\n\n**What does `sorted()` return? How is it different from `.sort()`?**\n\nSay 'next' when done."}
+{"prompt": "What's next?", "response": "Here's your next question:\n\n**What is `__all__` in a Python module?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "One Python question please.", "response": "Here's a Python interview question:\n\n**How does `.join()` work? Give an example.**\n\nTake your time to answer!"}
+{"prompt": "I want to get ready for a Python technical interview.", "response": "Here we go! Your first question:\n\n**What is the difference between an iterator and an iterable?**\n\nSay 'next' whenever you want to move on."}
+{"prompt": "Start the Python interview session.", "response": "Perfect! Let's dive in:\n\n**Can you have a nested list comprehension? Give an example.**\n\nNo rush. Say 'next' to get the next question."}
+{"prompt": "What's next?", "response": "Here's your next question:\n\n**What is the difference between `.pop()` and `.remove()` on a list?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Next question please.", "response": "Nice, let's keep going:\n\n**What is `super()` used for? Give an example.**\n\nSay 'next' to move on."}
+{"prompt": "Can you quiz me on Python?", "response": "Great! Let's get started. Here's your first question:\n\n**What does the `global` keyword do?**\n\nTake your time. Say 'next' when you're ready to move on."}
+{"prompt": "I'm ready for the next one.", "response": "Here comes the next one:\n\n**What is a lambda function? Give an example.**\n\nSay 'next' when done."}
+{"prompt": "Continue.", "response": "Alright! Next question:\n\n**What is `__name__ == '__main__'` used for?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Another question.", "response": "Alright! Next question:\n\n**What is a default argument? What is the mutable default pitfall?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Let's start the Python interview.", "response": "Let's begin! Here's question 1:\n\n**How do you raise a custom exception?**\n\nThink it through. Say 'next' to continue."}
+{"prompt": "Continue.", "response": "Alright! Next question:\n\n**What does the `nonlocal` keyword do? Give an example.**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "next", "response": "Nice, let's keep going:\n\n**What is a higher-order function? Give an example.**\n\nSay 'next' to move on."}
+{"prompt": "Another question.", "response": "Here comes the next one:\n\n**What does `@staticmethod` do?**\n\nSay 'next' when done."}
+{"prompt": "Keep going.", "response": "Here's your next question:\n\n**What is a dictionary comprehension? Give an example.**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Next please.", "response": "Here's your next question:\n\n**How does Python handle integer overflow?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Next.", "response": "Here comes the next one:\n\n**How does `zip()` work? What happens with unequal length lists?**\n\nSay 'next' when done."}
+{"prompt": "Give me one Python interview question.", "response": "Here's a Python interview question:\n\n**What does `enumerate()` do? Give an example.**\n\nTake your time to answer!"}
+{"prompt": "Give me another one.", "response": "Here's your next question:\n\n**What is `yield from` in Python?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Another question.", "response": "Alright! Next question:\n\n**How do you check if a string starts or ends with a substring?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Keep going.", "response": "Alright! Next question:\n\n**What is lazy evaluation and how do generators implement it?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Give me one Python interview question.", "response": "Here's a Python interview question:\n\n**What does `@staticmethod` do?**\n\nTake your time to answer!"}
+{"prompt": "Next.", "response": "Here's your next question:\n\n**What is a `property`? How do you create a getter and setter?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Next.", "response": "Alright! Next question:\n\n**What is `abs()` used for?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "I'm ready for the next one.", "response": "Here's your next question:\n\n**What is the difference between `is` and `==` for lists?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Ask me a Python question.", "response": "Here's a Python interview question:\n\n**What is polymorphism? Give a Python example.**\n\nTake your time to answer!"}
+{"prompt": "next", "response": "Alright! Next question:\n\n**How do you catch multiple exceptions in a single `except` block?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Go ahead.", "response": "Alright! Next question:\n\n**What is the GIL?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Next please.", "response": "Great! Moving on:\n\n**What does `filter()` do? Give an example.**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Move on.", "response": "Here's your next question:\n\n**What is the difference between a function and a method?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "I'm preparing for a Python interview. Quiz me.", "response": "Perfect! Let's dive in:\n\n**What is the difference between a stack and a queue? How do you implement each in Python?**\n\nNo rush. Say 'next' to get the next question."}
+{"prompt": "Next.", "response": "Here's your next question:\n\n**How do you stack multiple decorators?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Next.", "response": "Here's your next question:\n\n**What are Python's built-in data types? Give an example of each.**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "What's next?", "response": "Great! Moving on:\n\n**What does `repr()` do?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Give me a Python interview question.", "response": "Sure! Here's your opening question:\n\n**What is a dictionary comprehension? Give an example.**\n\nAnswer when you're ready, or say 'next' to skip."}
+{"prompt": "Another question.", "response": "Here comes the next one:\n\n**What is `__all__` in a Python module?**\n\nSay 'next' when done."}
+{"prompt": "Python question please.", "response": "Here's a Python interview question:\n\n**What does `.split()` do? What is its default separator?**\n\nTake your time to answer!"}
+{"prompt": "Next please.", "response": "Great! Moving on:\n\n**What is the difference between a function and a method?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Give me a Python interview question.", "response": "Great! Let's get started. Here's your first question:\n\n**What is variable shadowing?**\n\nTake your time. Say 'next' when you're ready to move on."}
+{"prompt": "I'm ready for the next one.", "response": "Great! Moving on:\n\n**What is the difference between `map()` and a list comprehension?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Give me a Python interview question.", "response": "Let's begin! Here's question 1:\n\n**What is unpacking in Python? Give examples of `*` and `**`.**\n\nThink it through. Say 'next' to continue."}
+{"prompt": "Next please.", "response": "Alright! Next question:\n\n**What does `.replace()` do in Python?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Next please.", "response": "Here comes the next one:\n\n**What is a `bytes` object and how does it differ from `str`?**\n\nSay 'next' when done."}
+{"prompt": "next", "response": "Here's your next question:\n\n**What is a higher-order function? Give an example.**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Give me a random Python interview question.", "response": "Here's a Python interview question:\n\n**What is a generator in Python? How is it different from a regular function?**\n\nTake your time to answer!"}
+{"prompt": "What's next?", "response": "Here comes the next one:\n\n**What is the difference between `int`, `float`, and `complex`?**\n\nSay 'next' when done."}
+{"prompt": "Start the Python interview session.", "response": "Sure! Here's your opening question:\n\n**What are file modes in Python? Name four of them.**\n\nAnswer when you're ready, or say 'next' to skip."}
+{"prompt": "Give me another one.", "response": "Here's your next question:\n\n**What is `abs()` used for?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "One Python question please.", "response": "Here's a Python interview question:\n\n**What is a class variable vs an instance variable?**\n\nTake your time to answer!"}
+{"prompt": "Keep going.", "response": "Here comes the next one:\n\n**How do you sort a list of dictionaries by a specific key?**\n\nSay 'next' when done."}
+{"prompt": "What's next?", "response": "Here's your next question:\n\n**How do you create an infinite generator?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Next question please.", "response": "Nice, let's keep going:\n\n**Can you have a nested list comprehension? Give an example.**\n\nSay 'next' to move on."}
+{"prompt": "I want to practice Python interview questions. Begin.", "response": "Let's begin! Here's question 1:\n\n**What is duck typing?**\n\nThink it through. Say 'next' to continue."}
+{"prompt": "next", "response": "Nice, let's keep going:\n\n**What is the difference between `and`, `or`, and `not`?**\n\nSay 'next' to move on."}
+{"prompt": "I'm ready for the next one.", "response": "Here comes the next one:\n\n**What is the difference between a class method, static method, and instance method?**\n\nSay 'next' when done."}
+{"prompt": "Go ahead.", "response": "Alright! Next question:\n\n**How do you convert a string to uppercase and lowercase?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Give me another one.", "response": "Nice, let's keep going:\n\n**What does the bitwise `&` operator do?**\n\nSay 'next' to move on."}
+{"prompt": "Python question please.", "response": "Here's a Python interview question:\n\n**What is `functools.wraps` and why is it used with decorators?**\n\nTake your time to answer!"}
+{"prompt": "Ask me a Python question.", "response": "Here's a Python interview question:\n\n**What is a context manager? How do you create one?**\n\nTake your time to answer!"}
+{"prompt": "next", "response": "Alright! Next question:\n\n**What is `self` and why is it needed?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Move on.", "response": "Here comes the next one:\n\n**How does `for...else` work in Python?**\n\nSay 'next' when done."}
+{"prompt": "Start my Python interview practice.", "response": "Great! Let's get started. Here's your first question:\n\n**What is a `bytes` object and how does it differ from `str`?**\n\nTake your time. Say 'next' when you're ready to move on."}
+{"prompt": "next", "response": "Alright! Next question:\n\n**Can a function return multiple values? How?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "I'm preparing for a Python interview. Quiz me.", "response": "Great! Let's get started. Here's your first question:\n\n**What does `list.insert()` do?**\n\nTake your time. Say 'next' when you're ready to move on."}
+{"prompt": "Go ahead.", "response": "Great! Moving on:\n\n**What is string immutability and how does it affect concatenation?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Begin my Python interview practice.", "response": "Sure! Here's your opening question:\n\n**How do you reverse a string in Python?**\n\nAnswer when you're ready, or say 'next' to skip."}
+{"prompt": "Start the Python interview session.", "response": "Perfect! Let's dive in:\n\n**What does `.replace()` do in Python?**\n\nNo rush. Say 'next' to get the next question."}
+{"prompt": "Python question please.", "response": "Here's a Python interview question:\n\n**What is the difference between `map()` and a list comprehension?**\n\nTake your time to answer!"}
+{"prompt": "Let's start the Python interview.", "response": "Perfect! Let's dive in:\n\n**What is duck typing?**\n\nNo rush. Say 'next' to get the next question."}
+{"prompt": "Next question please.", "response": "Here comes the next one:\n\n**What is `isinstance()` and how does it differ from `type()`?**\n\nSay 'next' when done."}
+{"prompt": "What's next?", "response": "Alright! Next question:\n\n**What is a nested loop and what is its performance concern?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Give me a Python interview question.", "response": "Perfect! Let's dive in:\n\n**What is the difference between `.pop()` and `.remove()` on a list?**\n\nNo rush. Say 'next' to get the next question."}
+{"prompt": "Give me one Python interview question.", "response": "Here's a Python interview question:\n\n**What is a context manager? How do you create one?**\n\nTake your time to answer!"}
+{"prompt": "Next please.", "response": "Here's your next question:\n\n**How do you convert a string to an integer? What if it's invalid?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Next question.", "response": "Here comes the next one:\n\n**What is shallow copy vs deep copy?**\n\nSay 'next' when done."}
+{"prompt": "Next please.", "response": "Great! Moving on:\n\n**How does `.join()` work? Give an example.**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Give me another one.", "response": "Great! Moving on:\n\n**How do you merge two dictionaries in Python?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "I'm ready for the next one.", "response": "Here's your next question:\n\n**What is `yield from` in Python?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "I'm ready for the next one.", "response": "Here comes the next one:\n\n**What is duck typing?**\n\nSay 'next' when done."}
+{"prompt": "Next question.", "response": "Here's your next question:\n\n**What is the difference between `.pop()` and `.remove()` on a list?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Next please.", "response": "Nice, let's keep going:\n\n**What is `isinstance()` and how does it differ from `type()`?**\n\nSay 'next' to move on."}
+{"prompt": "Give me another one.", "response": "Here comes the next one:\n\n**What does `repr()` do?**\n\nSay 'next' when done."}
+{"prompt": "Next please.", "response": "Here's your next question:\n\n**What is the difference between positional and keyword arguments?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Keep going.", "response": "Alright! Next question:\n\n**What does `sorted()` return? How is it different from `.sort()`?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Another question.", "response": "Great! Moving on:\n\n**What is the difference between `.pop()` and `.remove()` on a list?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Python question please.", "response": "Here's a Python interview question:\n\n**What happens if an exception is raised inside a `finally` block?**\n\nTake your time to answer!"}
+{"prompt": "Go ahead.", "response": "Here comes the next one:\n\n**What is shallow copy vs deep copy?**\n\nSay 'next' when done."}
+{"prompt": "One Python question please.", "response": "Here's a Python interview question:\n\n**Can a function return multiple values? How?**\n\nTake your time to answer!"}
+{"prompt": "Next question.", "response": "Here's your next question:\n\n**What is `chr()` and `ord()`?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Python question please.", "response": "Here's a Python interview question:\n\n**What is reference counting in Python?**\n\nTake your time to answer!"}
+{"prompt": "Another question.", "response": "Alright! Next question:\n\n**What is the difference between `and`, `or`, and `not`?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "I'm ready for the next one.", "response": "Nice, let's keep going:\n\n**What is the GIL?**\n\nSay 'next' to move on."}
+{"prompt": "Next.", "response": "Here's your next question:\n\n**What does `.split()` do? What is its default separator?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Python question please.", "response": "Here's a Python interview question:\n\n**How do you check if a string is a palindrome?**\n\nTake your time to answer!"}
+{"prompt": "Next.", "response": "Alright! Next question:\n\n**What is the difference between a function and a method?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Another question.", "response": "Nice, let's keep going:\n\n**What does `filter()` do? Give an example.**\n\nSay 'next' to move on."}
+{"prompt": "Continue.", "response": "Alright! Next question:\n\n**What does the `yield` keyword do?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Continue.", "response": "Here comes the next one:\n\n**How do you check if a string is a palindrome?**\n\nSay 'next' when done."}
+{"prompt": "Let's start the Python interview.", "response": "Sure! Here's your opening question:\n\n**What is `__init__`? Is it a constructor?**\n\nAnswer when you're ready, or say 'next' to skip."}
+{"prompt": "Give me another one.", "response": "Great! Moving on:\n\n**What does `round()` do? How does Python handle rounding of .5?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Next.", "response": "Alright! Next question:\n\n**How does Python's `Counter` work? Give an example.**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Give me one Python interview question.", "response": "Here's a Python interview question:\n\n**What is multiple inheritance? What problem can it cause?**\n\nTake your time to answer!"}
+{"prompt": "I want to get ready for a Python technical interview.", "response": "Here we go! Your first question:\n\n**What is `None` and how is it different from `0`, `False`, or `''`?**\n\nSay 'next' whenever you want to move on."}
+{"prompt": "Next question please.", "response": "Alright! Next question:\n\n**What is `__all__` in a Python module?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "I want to practice Python interview questions. Begin.", "response": "Perfect! Let's dive in:\n\n**How do you reverse a string in Python?**\n\nNo rush. Say 'next' to get the next question."}
+{"prompt": "I want to practice Python interview questions. Begin.", "response": "Sure! Here's your opening question:\n\n**What does `**` do in Python? Give an example.**\n\nAnswer when you're ready, or say 'next' to skip."}
+{"prompt": "Next question.", "response": "Alright! Next question:\n\n**Can you have an `if` condition inside a list comprehension?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Python question please.", "response": "Here's a Python interview question:\n\n**What does `any()` and `all()` do?**\n\nTake your time to answer!"}
+{"prompt": "Give me another one.", "response": "Great! Moving on:\n\n**What is the `%` operator used for? Give an example.**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Ask me a Python interview question.", "response": "Sure! Here's your opening question:\n\n**How does a Python `set` work? How is it different from a list?**\n\nAnswer when you're ready, or say 'next' to skip."}
+{"prompt": "I'm ready for the next one.", "response": "Great! Moving on:\n\n**What is method overriding?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Keep going.", "response": "Nice, let's keep going:\n\n**How do you check if a string contains only digits?**\n\nSay 'next' to move on."}
+{"prompt": "Another question.", "response": "Here's your next question:\n\n**What does the `global` keyword do?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Next please.", "response": "Alright! Next question:\n\n**How do you raise a custom exception?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Start my Python interview practice.", "response": "Let's begin! Here's question 1:\n\n**What does `range()` return? Give three different usages.**\n\nThink it through. Say 'next' to continue."}
+{"prompt": "Keep going.", "response": "Here's your next question:\n\n**What is `super()` used for? Give an example.**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Give me one Python interview question.", "response": "Here's a Python interview question:\n\n**What is a `property`? How do you create a getter and setter?**\n\nTake your time to answer!"}
+{"prompt": "Move on.", "response": "Alright! Next question:\n\n**What is `functools.wraps` and why is it used with decorators?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "One Python question please.", "response": "Here's a Python interview question:\n\n**How does the `in` operator work with lists, strings, and dicts?**\n\nTake your time to answer!"}
+{"prompt": "Give me a random Python interview question.", "response": "Here's a Python interview question:\n\n**What is an f-string and how does it differ from `.format()`?**\n\nTake your time to answer!"}
+{"prompt": "Next please.", "response": "Alright! Next question:\n\n**What is the difference between `Exception` and `BaseException`?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Continue.", "response": "Great! Moving on:\n\n**What is the difference between `==` and `is`?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Give me a Python interview question.", "response": "Let's begin! Here's question 1:\n\n**What is shallow copy vs deep copy?**\n\nThink it through. Say 'next' to continue."}
+{"prompt": "Next.", "response": "Great! Moving on:\n\n**What is `__slots__` and when would you use it?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Give me a random Python interview question.", "response": "Here's a Python interview question:\n\n**What does `@classmethod` do and how does it differ from `@staticmethod`?**\n\nTake your time to answer!"}
+{"prompt": "Python question please.", "response": "Here's a Python interview question:\n\n**What does the `with` statement do?**\n\nTake your time to answer!"}
+{"prompt": "Go ahead.", "response": "Here comes the next one:\n\n**What is a `property`? How do you create a getter and setter?**\n\nSay 'next' when done."}
+{"prompt": "Move on.", "response": "Here's your next question:\n\n**How do you merge two dictionaries in Python?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Ask me a Python question.", "response": "Here's a Python interview question:\n\n**What is string immutability and how does it affect concatenation?**\n\nTake your time to answer!"}
+{"prompt": "Give me another one.", "response": "Great! Moving on:\n\n**What is the difference between an iterator and an iterable?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Next please.", "response": "Great! Moving on:\n\n**What is a decorator factory?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Next question please.", "response": "Great! Moving on:\n\n**How do you create an infinite generator?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "I'm preparing for a Python interview. Quiz me.", "response": "Sure! Here's your opening question:\n\n**What is the GIL?**\n\nAnswer when you're ready, or say 'next' to skip."}
+{"prompt": "next", "response": "Alright! Next question:\n\n**What is a decorator? Write a simple example.**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Next question.", "response": "Here's your next question:\n\n**What does `enumerate()` do? Give an example.**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Go ahead.", "response": "Here comes the next one:\n\n**What is string immutability and how does it affect concatenation?**\n\nSay 'next' when done."}
+{"prompt": "Next.", "response": "Here's your next question:\n\n**What is a decorator? Write a simple example.**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Ask me a Python interview question.", "response": "Sure! Here's your opening question:\n\n**What is a higher-order function? Give an example.**\n\nAnswer when you're ready, or say 'next' to skip."}
+{"prompt": "Next.", "response": "Here's your next question:\n\n**What is the difference between `int`, `float`, and `complex`?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "I'm ready for the next one.", "response": "Here comes the next one:\n\n**What is a virtual environment and why is it used?**\n\nSay 'next' when done."}
+{"prompt": "Next question.", "response": "Alright! Next question:\n\n**How does `for...else` work in Python?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Give me another one.", "response": "Nice, let's keep going:\n\n**How does `for...else` work in Python?**\n\nSay 'next' to move on."}
+{"prompt": "Let's start the Python interview.", "response": "Here we go! Your first question:\n\n**What is the difference between `//` floor division and `math.floor()`?**\n\nSay 'next' whenever you want to move on."}
+{"prompt": "Python question please.", "response": "Here's a Python interview question:\n\n**What is the GIL?**\n\nTake your time to answer!"}
+{"prompt": "I'm ready for the next one.", "response": "Great! Moving on:\n\n**What is the difference between `and`, `or`, and `not`?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "What's next?", "response": "Great! Moving on:\n\n**What does the bitwise `&` operator do?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Give me one Python interview question.", "response": "Here's a Python interview question:\n\n**What is a lambda function? Give an example.**\n\nTake your time to answer!"}
+{"prompt": "Give me a random Python interview question.", "response": "Here's a Python interview question:\n\n**How do you reverse a string in Python?**\n\nTake your time to answer!"}
+{"prompt": "Another question.", "response": "Here's your next question:\n\n**What is shallow copy vs deep copy?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Begin my Python interview practice.", "response": "Here we go! Your first question:\n\n**How do you count occurrences of a character in a string?**\n\nSay 'next' whenever you want to move on."}
+{"prompt": "I'm ready for the next one.", "response": "Alright! Next question:\n\n**What is a generator expression? How does it differ from a list comprehension?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Go ahead.", "response": "Nice, let's keep going:\n\n**What is operator precedence? Give an example where it matters.**\n\nSay 'next' to move on."}
+{"prompt": "Give me one Python interview question.", "response": "Here's a Python interview question:\n\n**What is inheritance? Give a simple example.**\n\nTake your time to answer!"}
+{"prompt": "Python question please.", "response": "Here's a Python interview question:\n\n**What does `dict.get()` do and why is it safer than direct access?**\n\nTake your time to answer!"}
+{"prompt": "I want to practice Python interview questions. Begin.", "response": "Sure! Here's your opening question:\n\n**How do you check if a string is a palindrome?**\n\nAnswer when you're ready, or say 'next' to skip."}
+{"prompt": "What's next?", "response": "Great! Moving on:\n\n**What is the purpose of `finally`?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Give me another one.", "response": "Great! Moving on:\n\n**What is the LEGB rule in Python?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Move on.", "response": "Here's your next question:\n\n**What is `__all__` in a Python module?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Go ahead.", "response": "Great! Moving on:\n\n**What does `id()` return?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "next", "response": "Great! Moving on:\n\n**What are Python's built-in data types? Give an example of each.**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "I'm preparing for a Python interview. Quiz me.", "response": "Let's begin! Here's question 1:\n\n**What does `//` do? How is it different from `/`?**\n\nThink it through. Say 'next' to continue."}
+{"prompt": "Another question.", "response": "Here's your next question:\n\n**How do you check if a string contains only digits?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Next please.", "response": "Nice, let's keep going:\n\n**What is `yield from` in Python?**\n\nSay 'next' to move on."}
+{"prompt": "next", "response": "Great! Moving on:\n\n**What are Python's built-in data types? Give an example of each.**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "next", "response": "Nice, let's keep going:\n\n**How does `zip()` work? What happens with unequal length lists?**\n\nSay 'next' to move on."}
+{"prompt": "I'm ready for the next one.", "response": "Here comes the next one:\n\n**How do you stack multiple decorators?**\n\nSay 'next' when done."}
+{"prompt": "Give me a random Python interview question.", "response": "Here's a Python interview question:\n\n**How do you catch multiple exceptions in a single `except` block?**\n\nTake your time to answer!"}
+{"prompt": "One Python question please.", "response": "Here's a Python interview question:\n\n**How does the `in` operator work with lists, strings, and dicts?**\n\nTake your time to answer!"}
+{"prompt": "Keep going.", "response": "Nice, let's keep going:\n\n**What is a `bytes` object and how does it differ from `str`?**\n\nSay 'next' to move on."}
+{"prompt": "Another question.", "response": "Nice, let's keep going:\n\n**What does `.replace()` do in Python?**\n\nSay 'next' to move on."}
+{"prompt": "Move on.", "response": "Nice, let's keep going:\n\n**What does `round()` do? How does Python handle rounding of .5?**\n\nSay 'next' to move on."}
+{"prompt": "Next question please.", "response": "Alright! Next question:\n\n**What does `//` do? How is it different from `/`?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "I'm ready for the next one.", "response": "Great! Moving on:\n\n**What does the `yield` keyword do?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Give me another one.", "response": "Alright! Next question:\n\n**What is `abs()` used for?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Give me a random Python interview question.", "response": "Here's a Python interview question:\n\n**How do you stack multiple decorators?**\n\nTake your time to answer!"}
+{"prompt": "Next.", "response": "Great! Moving on:\n\n**How do you merge two dictionaries in Python?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Next question please.", "response": "Alright! Next question:\n\n**What is the difference between mutable and immutable types?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Keep going.", "response": "Here comes the next one:\n\n**What is a `defaultdict`? How is it different from a regular dict?**\n\nSay 'next' when done."}
+{"prompt": "Next.", "response": "Nice, let's keep going:\n\n**How do you raise a custom exception?**\n\nSay 'next' to move on."}
+{"prompt": "Next question.", "response": "Alright! Next question:\n\n**What is the difference between `.strip()`, `.lstrip()`, and `.rstrip()`?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Give me a random Python interview question.", "response": "Here's a Python interview question:\n\n**What is a context manager? How do you create one?**\n\nTake your time to answer!"}
+{"prompt": "next", "response": "Great! Moving on:\n\n**How do you check if a key exists in a dictionary?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Another question.", "response": "Here comes the next one:\n\n**What is string multiplication in Python? Give an example.**\n\nSay 'next' when done."}
+{"prompt": "Ask me a Python interview question.", "response": "Here we go! Your first question:\n\n**What is a nested loop and what is its performance concern?**\n\nSay 'next' whenever you want to move on."}
+{"prompt": "Next.", "response": "Here's your next question:\n\n**What is shallow copy vs deep copy?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Give me one Python interview question.", "response": "Here's a Python interview question:\n\n**What is the difference between `list.append()` and `list.extend()`?**\n\nTake your time to answer!"}
+{"prompt": "Continue.", "response": "Here comes the next one:\n\n**What is shallow copy vs deep copy?**\n\nSay 'next' when done."}
+{"prompt": "Keep going.", "response": "Great! Moving on:\n\n**What does `list.insert()` do?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Let's start the Python interview.", "response": "Let's begin! Here's question 1:\n\n**What is the difference between `.strip()`, `.lstrip()`, and `.rstrip()`?**\n\nThink it through. Say 'next' to continue."}
+{"prompt": "Ask me a Python question.", "response": "Here's a Python interview question:\n\n**What is a decorator? Write a simple example.**\n\nTake your time to answer!"}
+{"prompt": "Go ahead.", "response": "Here comes the next one:\n\n**What is the difference between `list.append()` and `list.extend()`?**\n\nSay 'next' when done."}
+{"prompt": "I'm ready for the next one.", "response": "Here comes the next one:\n\n**How do you check if a string contains only digits?**\n\nSay 'next' when done."}
+{"prompt": "Give me a random Python interview question.", "response": "Here's a Python interview question:\n\n**What is the difference between a list and a tuple?**\n\nTake your time to answer!"}
+{"prompt": "Next question please.", "response": "Great! Moving on:\n\n**What is a recursive function? Write a simple example.**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Move on.", "response": "Alright! Next question:\n\n**What is a dictionary comprehension? Give an example.**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Let's start the Python interview.", "response": "Perfect! Let's dive in:\n\n**What does `//` do? How is it different from `/`?**\n\nNo rush. Say 'next' to get the next question."}
+{"prompt": "Python question please.", "response": "Here's a Python interview question:\n\n**What does `repr()` do?**\n\nTake your time to answer!"}
+{"prompt": "What's next?", "response": "Great! Moving on:\n\n**How do you check if a string starts or ends with a substring?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "next", "response": "Great! Moving on:\n\n**What is the difference between `int`, `float`, and `complex`?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Give me one Python interview question.", "response": "Here's a Python interview question:\n\n**What are file modes in Python? Name four of them.**\n\nTake your time to answer!"}
+{"prompt": "Keep going.", "response": "Great! Moving on:\n\n**What does `dict.get()` do and why is it safer than direct access?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Next please.", "response": "Alright! Next question:\n\n**What is the difference between `__str__` and `__repr__`?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Begin my Python interview practice.", "response": "Great! Let's get started. Here's your first question:\n\n**What is variable shadowing?**\n\nTake your time. Say 'next' when you're ready to move on."}
+{"prompt": "Next.", "response": "Alright! Next question:\n\n**What does the `yield` keyword do?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Ask me a Python question.", "response": "Here's a Python interview question:\n\n**How do you check if a key exists in a dictionary?**\n\nTake your time to answer!"}
+{"prompt": "Next.", "response": "Nice, let's keep going:\n\n**What is `self` and why is it needed?**\n\nSay 'next' to move on."}
+{"prompt": "Next please.", "response": "Great! Moving on:\n\n**What does `dict.get()` do and why is it safer than direct access?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Keep going.", "response": "Nice, let's keep going:\n\n**What is the difference between `Exception` and `BaseException`?**\n\nSay 'next' to move on."}
+{"prompt": "Move on.", "response": "Nice, let's keep going:\n\n**What is the difference between `break`, `continue`, and `pass`?**\n\nSay 'next' to move on."}
+{"prompt": "Give me a random Python interview question.", "response": "Here's a Python interview question:\n\n**What is a nested loop and what is its performance concern?**\n\nTake your time to answer!"}
+{"prompt": "Next question please.", "response": "Nice, let's keep going:\n\n**How do you raise a custom exception?**\n\nSay 'next' to move on."}
+{"prompt": "Begin my Python interview practice.", "response": "Sure! Here's your opening question:\n\n**What is the difference between mutable and immutable types?**\n\nAnswer when you're ready, or say 'next' to skip."}
+{"prompt": "Next question.", "response": "Nice, let's keep going:\n\n**How do you convert a string to uppercase and lowercase?**\n\nSay 'next' to move on."}
+{"prompt": "Next please.", "response": "Nice, let's keep going:\n\n**What happens if an exception is raised inside a `finally` block?**\n\nSay 'next' to move on."}
+{"prompt": "One Python question please.", "response": "Here's a Python interview question:\n\n**How do you stack multiple decorators?**\n\nTake your time to answer!"}
+{"prompt": "Give me a Python interview question.", "response": "Great! Let's get started. Here's your first question:\n\n**What is the difference between mutable and immutable types?**\n\nTake your time. Say 'next' when you're ready to move on."}
+{"prompt": "Give me one Python interview question.", "response": "Here's a Python interview question:\n\n**What is the difference between `read()`, `readline()`, and `readlines()`?**\n\nTake your time to answer!"}
+{"prompt": "Next.", "response": "Here's your next question:\n\n**How do you raise a custom exception?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "What's next?", "response": "Here's your next question:\n\n**What is duck typing?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Next question.", "response": "Here's your next question:\n\n**What is inheritance? Give a simple example.**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "What's next?", "response": "Nice, let's keep going:\n\n**What is lazy evaluation and how do generators implement it?**\n\nSay 'next' to move on."}
+{"prompt": "Give me one Python interview question.", "response": "Here's a Python interview question:\n\n**What is a decorator factory?**\n\nTake your time to answer!"}
+{"prompt": "Continue.", "response": "Alright! Next question:\n\n**What is a dictionary comprehension? Give an example.**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Keep going.", "response": "Nice, let's keep going:\n\n**What happens if an exception is raised inside a `finally` block?**\n\nSay 'next' to move on."}
+{"prompt": "Go ahead.", "response": "Nice, let's keep going:\n\n**Can you have an `if` condition inside a list comprehension?**\n\nSay 'next' to move on."}
+{"prompt": "Next please.", "response": "Here's your next question:\n\n**What is `yield from` in Python?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Keep going.", "response": "Nice, let's keep going:\n\n**What is a ternary expression in Python? Give an example.**\n\nSay 'next' to move on."}
+{"prompt": "Give me one Python interview question.", "response": "Here's a Python interview question:\n\n**Can you have an `if` condition inside a list comprehension?**\n\nTake your time to answer!"}
+{"prompt": "I want to get ready for a Python technical interview.", "response": "Great! Let's get started. Here's your first question:\n\n**What does `range()` return? Give three different usages.**\n\nTake your time. Say 'next' when you're ready to move on."}
+{"prompt": "Continue.", "response": "Here's your next question:\n\n**What happens if an exception is raised inside a `finally` block?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Next question please.", "response": "Alright! Next question:\n\n**What is abstraction in Python?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Let's start the Python interview.", "response": "Sure! Here's your opening question:\n\n**What is `super()` used for? Give an example.**\n\nAnswer when you're ready, or say 'next' to skip."}
+{"prompt": "Next please.", "response": "Nice, let's keep going:\n\n**What is the walrus operator `:=` and when would you use it?**\n\nSay 'next' to move on."}
+{"prompt": "Next please.", "response": "Great! Moving on:\n\n**How does Python's `Counter` work? Give an example.**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Give me a Python interview question.", "response": "Perfect! Let's dive in:\n\n**What is `next()` used for?**\n\nNo rush. Say 'next' to get the next question."}
+{"prompt": "Next question please.", "response": "Here's your next question:\n\n**How does the `in` operator work with lists, strings, and dicts?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Next please.", "response": "Here's your next question:\n\n**What is `__all__` in a Python module?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Python question please.", "response": "Here's a Python interview question:\n\n**What does `@staticmethod` do?**\n\nTake your time to answer!"}
+{"prompt": "Go ahead.", "response": "Alright! Next question:\n\n**What is abstraction in Python?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Another question.", "response": "Alright! Next question:\n\n**What is encapsulation? How do you make an attribute private?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Continue.", "response": "Alright! Next question:\n\n**What are `*args` and `**kwargs`? When would you use them?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Begin my Python interview practice.", "response": "Great! Let's get started. Here's your first question:\n\n**How do you check if a key exists in a dictionary?**\n\nTake your time. Say 'next' when you're ready to move on."}
+{"prompt": "Next.", "response": "Here comes the next one:\n\n**What is a closure in Python? Give a simple example.**\n\nSay 'next' when done."}
+{"prompt": "Continue.", "response": "Alright! Next question:\n\n**What is inheritance? Give a simple example.**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "What's next?", "response": "Great! Moving on:\n\n**What does the `nonlocal` keyword do? Give an example.**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Next question.", "response": "Here's your next question:\n\n**What does `.split()` do? What is its default separator?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Give me one Python interview question.", "response": "Here's a Python interview question:\n\n**What is a generator in Python? How is it different from a regular function?**\n\nTake your time to answer!"}
+{"prompt": "Next question.", "response": "Here comes the next one:\n\n**What does `//` do? How is it different from `/`?**\n\nSay 'next' when done."}
+{"prompt": "Give me another one.", "response": "Here comes the next one:\n\n**What is a `property`? How do you create a getter and setter?**\n\nSay 'next' when done."}
+{"prompt": "Next question.", "response": "Here comes the next one:\n\n**What is `__all__` in a Python module?**\n\nSay 'next' when done."}
+{"prompt": "One Python question please.", "response": "Here's a Python interview question:\n\n**What is a `namedtuple`? When would you use it?**\n\nTake your time to answer!"}
+{"prompt": "Another question.", "response": "Alright! Next question:\n\n**What is `None` and how is it different from `0`, `False`, or `''`?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Continue.", "response": "Here's your next question:\n\n**How do you check if a key exists in a dictionary?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Next please.", "response": "Here comes the next one:\n\n**What is the difference between positional and keyword arguments?**\n\nSay 'next' when done."}
+{"prompt": "Another question.", "response": "Here's your next question:\n\n**How do you check if a key exists in a dictionary?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Move on.", "response": "Here's your next question:\n\n**How does `zip()` work? What happens with unequal length lists?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Give me another one.", "response": "Alright! Next question:\n\n**What is the difference between an iterator and an iterable?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Move on.", "response": "Great! Moving on:\n\n**Can you have a nested list comprehension? Give an example.**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "One Python question please.", "response": "Here's a Python interview question:\n\n**How do you iterate over a dictionary's keys and values?**\n\nTake your time to answer!"}
+{"prompt": "I'm ready for the next one.", "response": "Here's your next question:\n\n**What does `any()` and `all()` do?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Ask me a Python interview question.", "response": "Perfect! Let's dive in:\n\n**What does `range()` return? Give three different usages.**\n\nNo rush. Say 'next' to get the next question."}
+{"prompt": "Can you quiz me on Python?", "response": "Great! Let's get started. Here's your first question:\n\n**What are `*args` and `**kwargs`? When would you use them?**\n\nTake your time. Say 'next' when you're ready to move on."}
+{"prompt": "Next question.", "response": "Alright! Next question:\n\n**How do you convert a string to uppercase and lowercase?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Ask me a Python question.", "response": "Here's a Python interview question:\n\n**What is the difference between `==` and `is`?**\n\nTake your time to answer!"}
+{"prompt": "Move on.", "response": "Here comes the next one:\n\n**What is a generator expression? How does it differ from a list comprehension?**\n\nSay 'next' when done."}
+{"prompt": "I'm preparing for a Python interview. Quiz me.", "response": "Sure! Here's your opening question:\n\n**What is `__init__`? Is it a constructor?**\n\nAnswer when you're ready, or say 'next' to skip."}
+{"prompt": "Let's start the Python interview.", "response": "Here we go! Your first question:\n\n**What is the difference between a function and a method?**\n\nSay 'next' whenever you want to move on."}
+{"prompt": "Let's start the Python interview.", "response": "Let's begin! Here's question 1:\n\n**What does the bitwise `&` operator do?**\n\nThink it through. Say 'next' to continue."}
+{"prompt": "Can you quiz me on Python?", "response": "Let's begin! Here's question 1:\n\n**What is a `defaultdict`? How is it different from a regular dict?**\n\nThink it through. Say 'next' to continue."}
+{"prompt": "Give me one Python interview question.", "response": "Here's a Python interview question:\n\n**What is a list comprehension? How does it differ from a `for` loop?**\n\nTake your time to answer!"}
+{"prompt": "Keep going.", "response": "Alright! Next question:\n\n**How do you check if a string is a palindrome?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Give me a random Python interview question.", "response": "Here's a Python interview question:\n\n**What is encapsulation? How do you make an attribute private?**\n\nTake your time to answer!"}
+{"prompt": "Next.", "response": "Alright! Next question:\n\n**What is a class variable vs an instance variable?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "What's next?", "response": "Nice, let's keep going:\n\n**What is a dictionary comprehension? Give an example.**\n\nSay 'next' to move on."}
+{"prompt": "Next question.", "response": "Nice, let's keep going:\n\n**How do you convert a string to an integer? What if it's invalid?**\n\nSay 'next' to move on."}
+{"prompt": "Can you quiz me on Python?", "response": "Perfect! Let's dive in:\n\n**What is monkey patching in Python?**\n\nNo rush. Say 'next' to get the next question."}
+{"prompt": "Next.", "response": "Alright! Next question:\n\n**What is a `namedtuple`? When would you use it?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "One Python question please.", "response": "Here's a Python interview question:\n\n**What does `enumerate()` do? Give an example.**\n\nTake your time to answer!"}
+{"prompt": "Continue.", "response": "Here's your next question:\n\n**What is a higher-order function? Give an example.**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Python question please.", "response": "Here's a Python interview question:\n\n**How do you create an infinite generator?**\n\nTake your time to answer!"}
+{"prompt": "I'm ready for the next one.", "response": "Great! Moving on:\n\n**What is `functools.wraps` and why is it used with decorators?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Give me another one.", "response": "Here's your next question:\n\n**How do you check if a key exists in a dictionary?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Start the Python interview session.", "response": "Great! Let's get started. Here's your first question:\n\n**How does a Python `set` work? How is it different from a list?**\n\nTake your time. Say 'next' when you're ready to move on."}
+{"prompt": "Give me one Python interview question.", "response": "Here's a Python interview question:\n\n**What is a decorator factory?**\n\nTake your time to answer!"}
+{"prompt": "Move on.", "response": "Nice, let's keep going:\n\n**What is `super()` used for? Give an example.**\n\nSay 'next' to move on."}
+{"prompt": "What's next?", "response": "Here comes the next one:\n\n**What is variable shadowing?**\n\nSay 'next' when done."}
+{"prompt": "Next.", "response": "Alright! Next question:\n\n**What is a `property`? How do you create a getter and setter?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Next.", "response": "Here's your next question:\n\n**How do you reverse a string in Python?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Next.", "response": "Alright! Next question:\n\n**What is `abs()` used for?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Ask me a Python interview question.", "response": "Great! Let's get started. Here's your first question:\n\n**How do you iterate over a dictionary's keys and values?**\n\nTake your time. Say 'next' when you're ready to move on."}
+{"prompt": "Give me a Python interview question.", "response": "Sure! Here's your opening question:\n\n**How do you check if a string starts or ends with a substring?**\n\nAnswer when you're ready, or say 'next' to skip."}
+{"prompt": "Give me another one.", "response": "Alright! Next question:\n\n**What is the difference between a list and a tuple?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Next please.", "response": "Great! Moving on:\n\n**Can a function return multiple values? How?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Give me a Python interview question.", "response": "Great! Let's get started. Here's your first question:\n\n**What is `next()` used for?**\n\nTake your time. Say 'next' when you're ready to move on."}
+{"prompt": "Go ahead.", "response": "Alright! Next question:\n\n**How does `zip()` work? What happens with unequal length lists?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Give me another one.", "response": "Here comes the next one:\n\n**What is the `%` operator used for? Give an example.**\n\nSay 'next' when done."}
+{"prompt": "Another question.", "response": "Here's your next question:\n\n**What is `self` and why is it needed?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "I'm ready for the next one.", "response": "Great! Moving on:\n\n**How do you check if a string is a palindrome?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Ask me a Python question.", "response": "Here's a Python interview question:\n\n**What are Python modules and packages?**\n\nTake your time to answer!"}
+{"prompt": "Go ahead.", "response": "Alright! Next question:\n\n**What is polymorphism? Give a Python example.**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Next question please.", "response": "Here comes the next one:\n\n**What is a `bytes` object and how does it differ from `str`?**\n\nSay 'next' when done."}
+{"prompt": "Give me another one.", "response": "Great! Moving on:\n\n**What is the difference between an iterator and an iterable?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "I'm ready for the next one.", "response": "Here comes the next one:\n\n**How do you iterate over a dictionary's keys and values?**\n\nSay 'next' when done."}
+{"prompt": "next", "response": "Nice, let's keep going:\n\n**What is `__slots__` and when would you use it?**\n\nSay 'next' to move on."}
+{"prompt": "Move on.", "response": "Here's your next question:\n\n**How do you create an infinite generator?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Give me one Python interview question.", "response": "Here's a Python interview question:\n\n**What is duck typing?**\n\nTake your time to answer!"}
+{"prompt": "Next question please.", "response": "Nice, let's keep going:\n\n**What are augmented assignment operators? Give three examples.**\n\nSay 'next' to move on."}
+{"prompt": "What's next?", "response": "Here comes the next one:\n\n**What is string multiplication in Python? Give an example.**\n\nSay 'next' when done."}
+{"prompt": "Let's start the Python interview.", "response": "Here we go! Your first question:\n\n**What does `filter()` do? Give an example.**\n\nSay 'next' whenever you want to move on."}
+{"prompt": "I'm ready for the next one.", "response": "Alright! Next question:\n\n**How do you iterate over a dictionary's keys and values?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Ask me a Python interview question.", "response": "Here we go! Your first question:\n\n**How do you raise a custom exception?**\n\nSay 'next' whenever you want to move on."}
+{"prompt": "Next please.", "response": "Here's your next question:\n\n**How do you sort a list of dictionaries by a specific key?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "One Python question please.", "response": "Here's a Python interview question:\n\n**What is `self` and why is it needed?**\n\nTake your time to answer!"}
+{"prompt": "Go ahead.", "response": "Here comes the next one:\n\n**What is a `namedtuple`? When would you use it?**\n\nSay 'next' when done."}
+{"prompt": "Next please.", "response": "Alright! Next question:\n\n**How do you raise a custom exception?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Another question.", "response": "Nice, let's keep going:\n\n**What is the difference between `break`, `continue`, and `pass`?**\n\nSay 'next' to move on."}
+{"prompt": "Next question.", "response": "Great! Moving on:\n\n**What is duck typing?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Another question.", "response": "Nice, let's keep going:\n\n**What is a generator in Python? How is it different from a regular function?**\n\nSay 'next' to move on."}
+{"prompt": "Another question.", "response": "Nice, let's keep going:\n\n**How does `zip()` work? What happens with unequal length lists?**\n\nSay 'next' to move on."}
+{"prompt": "Give me a random Python interview question.", "response": "Here's a Python interview question:\n\n**What is the difference between a function and a method?**\n\nTake your time to answer!"}
+{"prompt": "Start my Python interview practice.", "response": "Perfect! Let's dive in:\n\n**What happens if an exception is raised inside a `finally` block?**\n\nNo rush. Say 'next' to get the next question."}
+{"prompt": "Next.", "response": "Nice, let's keep going:\n\n**What are Python's built-in data types? Give an example of each.**\n\nSay 'next' to move on."}
+{"prompt": "Give me another one.", "response": "Alright! Next question:\n\n**What is encapsulation? How do you make an attribute private?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Let's start the Python interview.", "response": "Perfect! Let's dive in:\n\n**What is the difference between `and`, `or`, and `not`?**\n\nNo rush. Say 'next' to get the next question."}
+{"prompt": "Another question.", "response": "Nice, let's keep going:\n\n**How do you check if a string starts or ends with a substring?**\n\nSay 'next' to move on."}
+{"prompt": "Continue.", "response": "Here's your next question:\n\n**What is an anonymous function?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Can you quiz me on Python?", "response": "Here we go! Your first question:\n\n**What are augmented assignment operators? Give three examples.**\n\nSay 'next' whenever you want to move on."}
+{"prompt": "Go ahead.", "response": "Here's your next question:\n\n**What is the LEGB rule in Python?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Python question please.", "response": "Here's a Python interview question:\n\n**What is the difference between a class method, static method, and instance method?**\n\nTake your time to answer!"}
+{"prompt": "Keep going.", "response": "Alright! Next question:\n\n**What is a context manager? How do you create one?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Next.", "response": "Here comes the next one:\n\n**What is the difference between `.pop()` and `.remove()` on a list?**\n\nSay 'next' when done."}
+{"prompt": "Continue.", "response": "Nice, let's keep going:\n\n**How do you check if a string starts or ends with a substring?**\n\nSay 'next' to move on."}
+{"prompt": "Next please.", "response": "Nice, let's keep going:\n\n**What does `id()` return?**\n\nSay 'next' to move on."}
+{"prompt": "Can you quiz me on Python?", "response": "Sure! Here's your opening question:\n\n**What is the difference between `and`, `or`, and `not`?**\n\nAnswer when you're ready, or say 'next' to skip."}
+{"prompt": "Next.", "response": "Here's your next question:\n\n**What does `sorted()` return? How is it different from `.sort()`?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Next.", "response": "Here comes the next one:\n\n**What is the difference between `.pop()` and `.remove()` on a list?**\n\nSay 'next' when done."}
+{"prompt": "I want to get ready for a Python technical interview.", "response": "Sure! Here's your opening question:\n\n**What is a decorator? Write a simple example.**\n\nAnswer when you're ready, or say 'next' to skip."}
+{"prompt": "Give me a Python interview question.", "response": "Here we go! Your first question:\n\n**What does `**` do in Python? Give an example.**\n\nSay 'next' whenever you want to move on."}
+{"prompt": "One Python question please.", "response": "Here's a Python interview question:\n\n**What is a nested loop and what is its performance concern?**\n\nTake your time to answer!"}
+{"prompt": "I'm preparing for a Python interview. Quiz me.", "response": "Here we go! Your first question:\n\n**How do you convert a string to an integer? What if it's invalid?**\n\nSay 'next' whenever you want to move on."}
+{"prompt": "next", "response": "Great! Moving on:\n\n**How do you check if a string is a palindrome?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Another question.", "response": "Here comes the next one:\n\n**What is inheritance? Give a simple example.**\n\nSay 'next' when done."}
+{"prompt": "Give me one Python interview question.", "response": "Here's a Python interview question:\n\n**What is the purpose of `finally`?**\n\nTake your time to answer!"}
+{"prompt": "Keep going.", "response": "Here comes the next one:\n\n**How do you remove duplicates from a list?**\n\nSay 'next' when done."}
+{"prompt": "I want to get ready for a Python technical interview.", "response": "Great! Let's get started. Here's your first question:\n\n**What is a higher-order function? Give an example.**\n\nTake your time. Say 'next' when you're ready to move on."}
+{"prompt": "next", "response": "Here's your next question:\n\n**What is a dictionary comprehension? Give an example.**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "I'm preparing for a Python interview. Quiz me.", "response": "Perfect! Let's dive in:\n\n**What are `*args` and `**kwargs`? When would you use them?**\n\nNo rush. Say 'next' to get the next question."}
+{"prompt": "Next.", "response": "Here comes the next one:\n\n**What is the difference between `==` and `is`?**\n\nSay 'next' when done."}
+{"prompt": "Next question.", "response": "Alright! Next question:\n\n**What is reference counting in Python?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Continue.", "response": "Here comes the next one:\n\n**How do you check if a string contains only digits?**\n\nSay 'next' when done."}
+{"prompt": "Another question.", "response": "Alright! Next question:\n\n**What is a dictionary comprehension? Give an example.**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "What's next?", "response": "Alright! Next question:\n\n**What does the bitwise `&` operator do?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Start my Python interview practice.", "response": "Great! Let's get started. Here's your first question:\n\n**How do you stack multiple decorators?**\n\nTake your time. Say 'next' when you're ready to move on."}
+{"prompt": "I want to get ready for a Python technical interview.", "response": "Great! Let's get started. Here's your first question:\n\n**What is the difference between an iterator and an iterable?**\n\nTake your time. Say 'next' when you're ready to move on."}
+{"prompt": "Continue.", "response": "Here's your next question:\n\n**What is a set comprehension? When would you use it?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Keep going.", "response": "Here comes the next one:\n\n**How does a Python `set` work? How is it different from a list?**\n\nSay 'next' when done."}
+{"prompt": "Next question.", "response": "Here's your next question:\n\n**What is the difference between a class method, static method, and instance method?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Continue.", "response": "Alright! Next question:\n\n**What are `*args` and `**kwargs`? When would you use them?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Next please.", "response": "Nice, let's keep going:\n\n**What is the GIL?**\n\nSay 'next' to move on."}
+{"prompt": "Another question.", "response": "Nice, let's keep going:\n\n**What is polymorphism? Give a Python example.**\n\nSay 'next' to move on."}
+{"prompt": "What's next?", "response": "Great! Moving on:\n\n**What is a higher-order function? Give an example.**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Continue.", "response": "Great! Moving on:\n\n**How does a `while` loop differ from a `for` loop?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "next", "response": "Nice, let's keep going:\n\n**What is a generator in Python? How is it different from a regular function?**\n\nSay 'next' to move on."}
+{"prompt": "Keep going.", "response": "Great! Moving on:\n\n**What is unpacking in Python? Give examples of `*` and `**`.**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Keep going.", "response": "Here comes the next one:\n\n**What does `round()` do? How does Python handle rounding of .5?**\n\nSay 'next' when done."}
+{"prompt": "Move on.", "response": "Here comes the next one:\n\n**What does the `with` statement do?**\n\nSay 'next' when done."}
+{"prompt": "Keep going.", "response": "Nice, let's keep going:\n\n**What is `next()` used for?**\n\nSay 'next' to move on."}
+{"prompt": "Give me another one.", "response": "Alright! Next question:\n\n**What is type casting? Give three examples.**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "I'm ready for the next one.", "response": "Here's your next question:\n\n**How do you remove duplicates from a list?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "One Python question please.", "response": "Here's a Python interview question:\n\n**What does the `nonlocal` keyword do? Give an example.**\n\nTake your time to answer!"}
+{"prompt": "I'm ready for the next one.", "response": "Here comes the next one:\n\n**What is a default argument? What is the mutable default pitfall?**\n\nSay 'next' when done."}
+{"prompt": "Keep going.", "response": "Alright! Next question:\n\n**What is a `namedtuple`? When would you use it?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Move on.", "response": "Nice, let's keep going:\n\n**What is the difference between `==` and `is`?**\n\nSay 'next' to move on."}
+{"prompt": "Go ahead.", "response": "Great! Moving on:\n\n**What is abstraction in Python?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Next.", "response": "Great! Moving on:\n\n**Can you have a nested list comprehension? Give an example.**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Next please.", "response": "Nice, let's keep going:\n\n**What is method overriding?**\n\nSay 'next' to move on."}
+{"prompt": "Go ahead.", "response": "Alright! Next question:\n\n**What does the `yield` keyword do?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Give me another one.", "response": "Alright! Next question:\n\n**What is the difference between `Exception` and `BaseException`?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Start my Python interview practice.", "response": "Let's begin! Here's question 1:\n\n**What are augmented assignment operators? Give three examples.**\n\nThink it through. Say 'next' to continue."}
+{"prompt": "Can you quiz me on Python?", "response": "Sure! Here's your opening question:\n\n**What does `list.insert()` do?**\n\nAnswer when you're ready, or say 'next' to skip."}
+{"prompt": "I'm preparing for a Python interview. Quiz me.", "response": "Here we go! Your first question:\n\n**What is a closure in Python? Give a simple example.**\n\nSay 'next' whenever you want to move on."}
+{"prompt": "Next please.", "response": "Here comes the next one:\n\n**What does `@classmethod` do and how does it differ from `@staticmethod`?**\n\nSay 'next' when done."}
+{"prompt": "Next.", "response": "Nice, let's keep going:\n\n**What is a generator expression? How does it differ from a list comprehension?**\n\nSay 'next' to move on."}
+{"prompt": "Start the Python interview session.", "response": "Let's begin! Here's question 1:\n\n**What is the difference between `__str__` and `__repr__`?**\n\nThink it through. Say 'next' to continue."}
+{"prompt": "Move on.", "response": "Nice, let's keep going:\n\n**What is the difference between a function and a method?**\n\nSay 'next' to move on."}
+{"prompt": "Continue.", "response": "Great! Moving on:\n\n**What is the difference between `.pop()` and `.remove()` on a list?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "I'm ready for the next one.", "response": "Here comes the next one:\n\n**What is a ternary expression in Python? Give an example.**\n\nSay 'next' when done."}
+{"prompt": "Ask me a Python question.", "response": "Here's a Python interview question:\n\n**What are type hints in Python? Give an example.**\n\nTake your time to answer!"}
+{"prompt": "Next please.", "response": "Here's your next question:\n\n**Can you have a nested list comprehension? Give an example.**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Move on.", "response": "Alright! Next question:\n\n**What does the `yield` keyword do?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Next question please.", "response": "Here's your next question:\n\n**What is method overriding?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Next.", "response": "Great! Moving on:\n\n**How do you stack multiple decorators?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Next please.", "response": "Nice, let's keep going:\n\n**What is `__del__` in Python?**\n\nSay 'next' to move on."}
+{"prompt": "Go ahead.", "response": "Great! Moving on:\n\n**What is the GIL?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Give me another one.", "response": "Alright! Next question:\n\n**How does `zip()` work? What happens with unequal length lists?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Move on.", "response": "Nice, let's keep going:\n\n**What does `range()` return? Give three different usages.**\n\nSay 'next' to move on."}
+{"prompt": "Continue.", "response": "Nice, let's keep going:\n\n**How does a Python `set` work? How is it different from a list?**\n\nSay 'next' to move on."}
+{"prompt": "Another question.", "response": "Here's your next question:\n\n**How do you raise a custom exception?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "I'm ready for the next one.", "response": "Nice, let's keep going:\n\n**What is the difference between `list.append()` and `list.extend()`?**\n\nSay 'next' to move on."}
+{"prompt": "I want to practice Python interview questions. Begin.", "response": "Perfect! Let's dive in:\n\n**What is the `%` operator used for? Give an example.**\n\nNo rush. Say 'next' to get the next question."}
+{"prompt": "I'm ready for the next one.", "response": "Here comes the next one:\n\n**How does Python handle integer overflow?**\n\nSay 'next' when done."}
+{"prompt": "Give me another one.", "response": "Alright! Next question:\n\n**What does `id()` return?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Go ahead.", "response": "Nice, let's keep going:\n\n**What is the difference between `.strip()`, `.lstrip()`, and `.rstrip()`?**\n\nSay 'next' to move on."}
+{"prompt": "Continue.", "response": "Alright! Next question:\n\n**What is the difference between a list and a tuple?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Another question.", "response": "Nice, let's keep going:\n\n**What is the `%` operator used for? Give an example.**\n\nSay 'next' to move on."}
+{"prompt": "I'm ready for the next one.", "response": "Here comes the next one:\n\n**How do you check if a string contains only digits?**\n\nSay 'next' when done."}
+{"prompt": "Give me another one.", "response": "Great! Moving on:\n\n**What is the difference between composition and inheritance?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "I want to practice Python interview questions. Begin.", "response": "Let's begin! Here's question 1:\n\n**What does `range()` return? Give three different usages.**\n\nThink it through. Say 'next' to continue."}
+{"prompt": "Next.", "response": "Here's your next question:\n\n**What is a dictionary comprehension? Give an example.**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Ask me a Python question.", "response": "Here's a Python interview question:\n\n**What is inheritance? Give a simple example.**\n\nTake your time to answer!"}
+{"prompt": "Give me another one.", "response": "Here's your next question:\n\n**What is `__del__` in Python?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Give me one Python interview question.", "response": "Here's a Python interview question:\n\n**How does the `in` operator work with lists, strings, and dicts?**\n\nTake your time to answer!"}
+{"prompt": "One Python question please.", "response": "Here's a Python interview question:\n\n**How does a `while` loop differ from a `for` loop?**\n\nTake your time to answer!"}
+{"prompt": "Go ahead.", "response": "Great! Moving on:\n\n**Can you have an `if` condition inside a list comprehension?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Keep going.", "response": "Nice, let's keep going:\n\n**What is a virtual environment and why is it used?**\n\nSay 'next' to move on."}
+{"prompt": "One Python question please.", "response": "Here's a Python interview question:\n\n**What is a higher-order function? Give an example.**\n\nTake your time to answer!"}
+{"prompt": "Next question please.", "response": "Great! Moving on:\n\n**How does the `in` operator work with lists, strings, and dicts?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Next question.", "response": "Here's your next question:\n\n**What does `list.insert()` do?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "I'm ready for the next one.", "response": "Here's your next question:\n\n**What is a set comprehension? When would you use it?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "One Python question please.", "response": "Here's a Python interview question:\n\n**What is the difference between positional and keyword arguments?**\n\nTake your time to answer!"}
+{"prompt": "Next.", "response": "Alright! Next question:\n\n**What is the difference between `while True` and a conditional loop?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "What's next?", "response": "Here comes the next one:\n\n**What is `__del__` in Python?**\n\nSay 'next' when done."}
+{"prompt": "next", "response": "Nice, let's keep going:\n\n**What is the difference between `print()` and `return`?**\n\nSay 'next' to move on."}
+{"prompt": "One Python question please.", "response": "Here's a Python interview question:\n\n**What is the walrus operator `:=` and when would you use it?**\n\nTake your time to answer!"}
+{"prompt": "Give me a random Python interview question.", "response": "Here's a Python interview question:\n\n**Can you have a nested list comprehension? Give an example.**\n\nTake your time to answer!"}
+{"prompt": "Ask me a Python question.", "response": "Here's a Python interview question:\n\n**What is the LEGB rule in Python?**\n\nTake your time to answer!"}
+{"prompt": "Next please.", "response": "Alright! Next question:\n\n**How does a `while` loop differ from a `for` loop?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Another question.", "response": "Here comes the next one:\n\n**What is a virtual environment and why is it used?**\n\nSay 'next' when done."}
+{"prompt": "I want to practice Python interview questions. Begin.", "response": "Perfect! Let's dive in:\n\n**What is the difference between a class method, static method, and instance method?**\n\nNo rush. Say 'next' to get the next question."}
+{"prompt": "Another question.", "response": "Nice, let's keep going:\n\n**What is the difference between `list.append()` and `list.extend()`?**\n\nSay 'next' to move on."}
+{"prompt": "next", "response": "Nice, let's keep going:\n\n**How do you flatten a nested list in Python?**\n\nSay 'next' to move on."}
+{"prompt": "Give me a random Python interview question.", "response": "Here's a Python interview question:\n\n**What is string multiplication in Python? Give an example.**\n\nTake your time to answer!"}
+{"prompt": "Move on.", "response": "Alright! Next question:\n\n**What is a set comprehension? When would you use it?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "I'm ready for the next one.", "response": "Alright! Next question:\n\n**What is the difference between `int`, `float`, and `complex`?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Start the Python interview session.", "response": "Sure! Here's your opening question:\n\n**How does a `while` loop differ from a `for` loop?**\n\nAnswer when you're ready, or say 'next' to skip."}
+{"prompt": "Next question.", "response": "Alright! Next question:\n\n**What does `list.insert()` do?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "What's next?", "response": "Alright! Next question:\n\n**What is `self` and why is it needed?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Keep going.", "response": "Here comes the next one:\n\n**How do you sort a list of dictionaries by a specific key?**\n\nSay 'next' when done."}
+{"prompt": "next", "response": "Here's your next question:\n\n**What does `round()` do? How does Python handle rounding of .5?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Next please.", "response": "Great! Moving on:\n\n**What is a class variable vs an instance variable?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Next question.", "response": "Nice, let's keep going:\n\n**What is string immutability and how does it affect concatenation?**\n\nSay 'next' to move on."}
+{"prompt": "Next.", "response": "Great! Moving on:\n\n**What is inheritance? Give a simple example.**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "I'm preparing for a Python interview. Quiz me.", "response": "Great! Let's get started. Here's your first question:\n\n**What is the difference between mutable and immutable types?**\n\nTake your time. Say 'next' when you're ready to move on."}
+{"prompt": "Give me one Python interview question.", "response": "Here's a Python interview question:\n\n**What is a nested loop and what is its performance concern?**\n\nTake your time to answer!"}
+{"prompt": "Python question please.", "response": "Here's a Python interview question:\n\n**What is the difference between `map()` and a list comprehension?**\n\nTake your time to answer!"}
+{"prompt": "Next question.", "response": "Alright! Next question:\n\n**What is `abs()` used for?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Continue.", "response": "Alright! Next question:\n\n**What is unpacking in Python? Give examples of `*` and `**`.**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "What's next?", "response": "Here's your next question:\n\n**What does `dict.get()` do and why is it safer than direct access?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "I want to get ready for a Python technical interview.", "response": "Perfect! Let's dive in:\n\n**What is the difference between `int`, `float`, and `complex`?**\n\nNo rush. Say 'next' to get the next question."}
+{"prompt": "Give me one Python interview question.", "response": "Here's a Python interview question:\n\n**How do you find the index of an element in a list?**\n\nTake your time to answer!"}
+{"prompt": "Next question please.", "response": "Great! Moving on:\n\n**What are `*args` and `**kwargs`? When would you use them?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "What's next?", "response": "Nice, let's keep going:\n\n**What does the `global` keyword do?**\n\nSay 'next' to move on."}
+{"prompt": "I'm ready for the next one.", "response": "Here's your next question:\n\n**How do you iterate over a dictionary's keys and values?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Give me a random Python interview question.", "response": "Here's a Python interview question:\n\n**What is the difference between `and`, `or`, and `not`?**\n\nTake your time to answer!"}
+{"prompt": "Go ahead.", "response": "Here comes the next one:\n\n**What is the difference between `.strip()`, `.lstrip()`, and `.rstrip()`?**\n\nSay 'next' when done."}
+{"prompt": "Next question please.", "response": "Here's your next question:\n\n**What are augmented assignment operators? Give three examples.**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Give me a random Python interview question.", "response": "Here's a Python interview question:\n\n**What does the `nonlocal` keyword do? Give an example.**\n\nTake your time to answer!"}
+{"prompt": "Give me another one.", "response": "Here's your next question:\n\n**What is method overriding?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "I want to practice Python interview questions. Begin.", "response": "Great! Let's get started. Here's your first question:\n\n**How do you check if a string starts or ends with a substring?**\n\nTake your time. Say 'next' when you're ready to move on."}
+{"prompt": "Continue.", "response": "Here's your next question:\n\n**How do you remove duplicates from a list?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "I'm ready for the next one.", "response": "Nice, let's keep going:\n\n**What does `**` do in Python? Give an example.**\n\nSay 'next' to move on."}
+{"prompt": "Another question.", "response": "Great! Moving on:\n\n**How does a Python `set` work? How is it different from a list?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Begin my Python interview practice.", "response": "Let's begin! Here's question 1:\n\n**What is a recursive function? Write a simple example.**\n\nThink it through. Say 'next' to continue."}
+{"prompt": "I want to get ready for a Python technical interview.", "response": "Great! Let's get started. Here's your first question:\n\n**How do you check if a key exists in a dictionary?**\n\nTake your time. Say 'next' when you're ready to move on."}
+{"prompt": "What's next?", "response": "Here's your next question:\n\n**What is a recursive function? Write a simple example.**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Give me another one.", "response": "Alright! Next question:\n\n**What is method overriding?**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Python question please.", "response": "Here's a Python interview question:\n\n**What is the difference between `__str__` and `__repr__`?**\n\nTake your time to answer!"}
+{"prompt": "Go ahead.", "response": "Nice, let's keep going:\n\n**How do you raise a custom exception?**\n\nSay 'next' to move on."}
+{"prompt": "Python question please.", "response": "Here's a Python interview question:\n\n**What is a decorator factory?**\n\nTake your time to answer!"}
+{"prompt": "Continue.", "response": "Great! Moving on:\n\n**How do you merge two dictionaries in Python?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Keep going.", "response": "Alright! Next question:\n\n**What is inheritance? Give a simple example.**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "Next question please.", "response": "Here comes the next one:\n\n**What is `__del__` in Python?**\n\nSay 'next' when done."}
+{"prompt": "Keep going.", "response": "Alright! Next question:\n\n**What does the `nonlocal` keyword do? Give an example.**\n\nAnswer when ready, or say 'next' to skip."}
+{"prompt": "One Python question please.", "response": "Here's a Python interview question:\n\n**What is the difference between `Exception` and `BaseException`?**\n\nTake your time to answer!"}
+{"prompt": "Next.", "response": "Nice, let's keep going:\n\n**What are augmented assignment operators? Give three examples.**\n\nSay 'next' to move on."}
+{"prompt": "next", "response": "Here comes the next one:\n\n**How do you check if a string starts or ends with a substring?**\n\nSay 'next' when done."}
+{"prompt": "Start the Python interview session.", "response": "Perfect! Let's dive in:\n\n**What does `**` do in Python? Give an example.**\n\nNo rush. Say 'next' to get the next question."}
+{"prompt": "Let's start the Python interview.", "response": "Let's begin! Here's question 1:\n\n**What is lazy evaluation and how do generators implement it?**\n\nThink it through. Say 'next' to continue."}
+{"prompt": "Python question please.", "response": "Here's a Python interview question:\n\n**What is the difference between a stack and a queue? How do you implement each in Python?**\n\nTake your time to answer!"}
+{"prompt": "next", "response": "Here comes the next one:\n\n**What is multiple inheritance? What problem can it cause?**\n\nSay 'next' when done."}
+{"prompt": "Another question.", "response": "Great! Moving on:\n\n**What is the difference between `.pop()` and `.remove()` on a list?**\n\nTake your time. Say 'next' to continue."}
+{"prompt": "Go ahead.", "response": "Here's your next question:\n\n**What does `repr()` do?**\n\nSay 'next' when you're ready to continue."}
+{"prompt": "Continue.", "response": "Alright! Next question:\n\n**What are augmented assignment operators? Give three examples.**\n\nAnswer when ready, or say 'next' to skip."}
